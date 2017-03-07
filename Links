@@ -1,2 +1,3 @@
 java 入门：https://github.com/judasn/Basic-Single-Module-SSM/edit/master/README.md
 buid java with maven:http://spring.io/guides/gs/maven/
+maven中snapshot快照库和release发布库的区别和作用 :http://www.mzone.cc/article/277.html
